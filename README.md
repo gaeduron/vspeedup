@@ -1,6 +1,8 @@
-# Video Auto SpeedUp
+# Video Auto SpeedUp  🎞⏩ 
 
 Video Auto SpeedUp is a script that **speedup the silent parts of a video.**
+
+A great tool for **pedagogical videos** with a lot a **silent demonstration** like live coding, drawing and painting.
 
 ## Installation
 
