@@ -31,6 +31,9 @@ You can also change 3 options:
 2. The **speed** of the fast forward
 3. **Verbose** to see which part of the video correspond to silence
 
+![interface](https://i.ibb.co/Lz4bSD8/Screen-Shot-2020-10-20-at-18-26-24.png)
+![audio analysis](https://i.ibb.co/y6qZG6r/Screen-Shot-2020-10-20-at-18-26-13.png)
+
 ## Info
 
 This project is not actively maintained.
